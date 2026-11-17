@@ -14,6 +14,7 @@ A lightweight Python tool to scan websites for common security issues. Built for
 ## 🚀 How To Run
 
 Step 1: pip install requests
+
 Step 2: python Vuln_scanner.py
 
 Then enter the target URL when e ask you, e.g. https://example.com
