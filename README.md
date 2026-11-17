@@ -1,3 +1,12 @@
+## ⬇️ Download
+
+**No Python needed! Just download and double-click:**
+
+👉 [Download Vuln_scanner.exe (v1.0.1)](https://github.com/piuscyber/Vuln_scanner/releases/tag/v1.0.1)
+
+---
+
+
 # 🛡️ Vuln_Scanner - Python Vulnerability Scanner
 
 A lightweight Python tool to scan websites for common security issues. Built for learning, ethical hacking, and penetration testing.
