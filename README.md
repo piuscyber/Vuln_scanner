@@ -1,19 +1,32 @@
-# 🛡️ PlusCyber Vulnerability Scanner - V5
+# 🛡️ Vuln_Scanner - Python Vulnerability Scanner
 
-A Python tool to scan websites for common vulnerabilities. Built by Payo.
+A lightweight Python tool to scan websites for common security issues. Built for learning, ethical hacking, and penetration testing.
 
-## Features
-- ✅ Security Headers Check
-- ✅ SSL Certificate Check
-- ✅ Port Scanner
-- ✅ Admin Panel Finder
-- ✅ SQL Injection Check
-- ✅ XSS Check
-- ✅ Sensitive Files Check (.env, .git, backup, db.sql)
-- ✅ Batch Scan - Scan many sites at once
-- ✅ Colorful Menu + Auto Save Report
+## ✨ Features
+- Security Headers Check
+- SSL / HTTPS Check
+- Open Ports Scan
+- SQL Injection (SQLi) Test
+- Cross-Site Scripting (XSS) Test
+- Admin Panel Discovery
+- Sensitive Files Discovery
 
-## How to Use (With Python)
-```bash
-pip install requests colorama
-python vuln_scanner.py
+## 🚀 How To Run
+
+Step 1: pip install requests
+Step 2: python Vuln_scanner.py
+
+Then enter the target URL when e ask you, e.g. https://example.com
+
+## ⚠️ Disclaimer
+
+This tool is for educational purposes and authorized testing ONLY.
+
+- Only scan websites you own or have written permission to test.
+- Do NOT use this tool on any website without permission.
+- The author is NOT responsible for any misuse or illegal use of this tool.
+
+Use responsibly. Stay legal. Stay ethical.
+
+## 👨‍💻 Author
+**Pius Cyber** - https://github.com/piuscyber
